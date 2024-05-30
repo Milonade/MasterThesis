@@ -36,7 +36,7 @@
 - Comes back to the app in hopes of finding luxury items at low prices.
 - But is scared of scams on Vinted and would rather buy luxury items on Vestiaire Collective.
 - Thinks that we are at a time where everything is accessible, so people want to differentiate themselves even more…
-- Europeans use Vinted as a cheaper postal service to send object to themselves or to their friend for cheap (not very ecological)
+- Europeans use Vinted as a cheaper postal service to send object to themselves or to their friend (not very ecological)
 
 ## Google trends & Tagwalk
 
