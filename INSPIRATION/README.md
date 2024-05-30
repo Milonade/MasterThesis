@@ -23,10 +23,10 @@ How the fashion cycle creates a speculation market for online resellers?
 
 # Images
 
-![Depop](/INSPIRATION/images/depop-app.webp)
-![Whatnot](/INSPIRATION/images/000995177_896x598_c.jpg)
-![Vestiaire Collective](/INSPIRATION/images/1711440350-vestiaire-collective.png)
-![Vestiaire Collective](/INSPIRATION/images/WhatsApp%20Image%202024-04-15%20à%2008.31.44_1986e19b.jpg)
+![Depop](/INSPIRATION/IMGS/depop-app.webp)
+![Whatnot](/INSPIRATION/IMGS/000995177_896x598_c.jpg)
+![Vestiaire Collective](/INSPIRATION/IMGS/1711440350-vestiaire-collective.png)
+![Vestiaire Collective](/INSPIRATION/IMGS/WhatsApp%20Image%202024-04-15%20à%2008.31.44_1986e19b.jpg)
 
 # Sources
 
@@ -54,3 +54,6 @@ https://www.alternatives-economiques.fr/surproduction-addiction-shein-lepouvanta
 [Whatnot, la pépite qui bouscule l'e-commerce avec des enchères vidéo en direct - Usine Digitale](https://www.usine-digitale.fr/article/whatnot-la-pepite-qui-bouscule-l-e-commerce-avec-des-encheres-video-en-direct.N1141737)
 
 [Comment augmenter ses ventes de vêtements sur Depop](https://digital.hec.ca/blog/augmenter-ses-ventes-de-vetements-en-ligne/)
+
+# Keywords
+Ideology, Thrifting, Gentrification, Fashion cycle, Speculation market, Whatnot, Casino effect, Depop, Vestiaire Collective,  Green washing, Deculpabilisé, Consummer, reaseller 
