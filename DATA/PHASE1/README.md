@@ -41,7 +41,7 @@
 
 Comparing Tagwalk report on trends for SS24 with actual user research on Google trends
 
-![SS24 Trend 90sMinimal TagWalk Report](/DATA/PHASE1/IMGS/GoogleTrends_90sFashion_Search_29-05-2024.png)
+![SS24 Trend 90s Minimal TagWalk Report](/DATA/PHASE1/IMGS/SS24_Trend_90sMinimal_TagWalk_Report.png)
 
 Keywords “90s fashion”
 
